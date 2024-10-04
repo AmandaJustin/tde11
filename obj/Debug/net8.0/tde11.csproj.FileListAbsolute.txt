@@ -1,0 +1,14 @@
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\aula11\tde11\obj\Debug\net8.0\tde11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\aula11\tde11\obj\Debug\net8.0\tde11.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\aula11\tde11\obj\Debug\net8.0\tde11.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\aula11\tde11\obj\Debug\net8.0\tde11.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\aula11\tde11\bin\Debug\net8.0\tde11.exe
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\aula11\tde11\bin\Debug\net8.0\tde11.deps.json
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\aula11\tde11\bin\Debug\net8.0\tde11.runtimeconfig.json
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\aula11\tde11\bin\Debug\net8.0\tde11.dll
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\aula11\tde11\bin\Debug\net8.0\tde11.pdb
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\aula11\tde11\obj\Debug\net8.0\tde11.dll
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\aula11\tde11\obj\Debug\net8.0\refint\tde11.dll
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\aula11\tde11\obj\Debug\net8.0\tde11.pdb
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\aula11\tde11\obj\Debug\net8.0\tde11.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Desktop\laboratório de programação\aula11\tde11\obj\Debug\net8.0\ref\tde11.dll
